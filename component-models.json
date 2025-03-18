@@ -203,9 +203,9 @@
       },
       {
         "component": "richtext",
-        "name": "quote",
+        "name": "text",
         "value": "",
-        "label": "Quote",
+        "label": "Text",
         "valueType": "string"
       }
     ]
